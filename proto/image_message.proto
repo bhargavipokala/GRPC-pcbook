@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option go_package = "/pb";
+
+message ImageInfo {
+    string laptop_id = 1;
+    ImageType image_type = 2;
+}
+
+enum ImageType {
+    UNKNOWN = 0;
+    JPG = 1;
+    PNG = 2;
+}

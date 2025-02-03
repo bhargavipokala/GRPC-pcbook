@@ -1,0 +1,62 @@
+{
+  "id": "8d4a210b-612e-458c-bcb1-fb3a891d93a8",
+  "brand": "Dell",
+  "name": "Vostro",
+  "cpu": {
+    "brand": "intel",
+    "name": "Xeon E-2286M",
+    "numberCores": 6,
+    "numberThreads": 7,
+    "minGhz": 2.8297713329478116,
+    "maxGhz": 4.975847425072607
+  },
+  "ram": {
+    "value": "62",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "NVIDIA",
+      "name": "RTX 2060",
+      "minGhz": 2.0746788078525835,
+      "maxGhz": 2.365599416045095,
+      "memory": {
+        "value": "2",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "5",
+        "unit": "TERABYTE"
+      }
+    },
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "170",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "sizeInch": 13.211429,
+    "resolution": {
+      "width": 3724,
+      "height": 2095
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": false
+  },
+  "weightKg": 1.0239918605245184,
+  "priceUsd": 2562.6379180907315,
+  "releaseYear": 2019,
+  "updatedAt": "2025-01-22T18:05:23.666957Z"
+}
